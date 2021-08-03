@@ -4,6 +4,8 @@
 # writes values to an excel file
 # outputs xml files of each text
 
+# James Misson, October 2020 - January 2021
+
 # new in version 3:
 # Analysis of preface and assignation to dict/excel now in the function 'describe()' (c. ll.28-118)
 # Types listed in 'pluraltypes' (e.g. encomia, define din . 29) are unpacked and treated as separate prefaces (e.g. encomium) (c. ll. 172-196, 231-248)
